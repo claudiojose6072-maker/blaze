@@ -1,3 +1,4 @@
+
 .. image:: https://raw.github.com/blaze/blaze/master/docs/source/svg/blaze_med.png
    :align: center
 
